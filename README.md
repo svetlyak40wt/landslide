@@ -374,3 +374,7 @@ Base Template Authors and Contributors (html5-slides)
 - Marcin Wichary (mwichary@google.com)
 - Ernest Delgado (ernestd@google.com)
 - Alex Russell (slightlyoff@chromium.org)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/svetlyak40wt/landslide/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
